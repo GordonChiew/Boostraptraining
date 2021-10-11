@@ -1,0 +1,77 @@
+nav{
+  position: absolute;
+}
+
+.banner{
+ background-image: url("https://static01.nyt.com/images/2019/06/29/science/29MOON-HOUSTON1/merlin_157155117_7758257f-7b85-4645-a12c-56a98972580c-superJumbo.jpg");
+ height: 270px;
+}
+
+ul li a{
+  color: white;
+}
+
+ul li a:hover{
+ color: #E5E5DB;
+}
+
+
+h1, h5{
+  color: white;
+}
+
+.phone{
+  background-color: #18130E;
+  border-radius: 3px;
+  padding: 7px;
+}
+
+.boat h1, p{
+  color: black;
+  text-align: center;
+  font-size: 21px
+
+}
+
+.boat{
+  border: 0.5px solid #D3D3D3;
+  padding: 50px 30px;
+}
+
+.isaac{
+  margin-left: 170px;
+  margin-bottom: 15px;
+}
+
+.circle-icon {
+    background: #ECE1C9;
+    padding:20px;
+    border-radius: 50%;
+}
+
+.title h1{
+  text-align: center;
+  margin-top: 60px;
+  color: black;
+}
+
+.title p{
+  font-size: 18px;
+}
+
+form{
+  width: 1050px;
+  margin: 0 auto;
+}
+
+textarea{
+  margin: 0 auto;
+}
+
+button{
+  background-color: #18130E;
+  border-radius: 5px;
+  padding: 10px;
+  color: white;
+  margin-left: 425px;
+}
